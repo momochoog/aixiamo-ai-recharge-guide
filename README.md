@@ -1,8 +1,18 @@
-# AIXiamo AI 充值教程中心
+# GPT代充 / ChatGPT Plus 中文充值教程：国内开通、无需海外银行卡、支付宝微信
 
-面向中文用户整理的 AI 订阅开通、订单查询、卡密/CDK 状态查询与售后排查资料库。重点覆盖 ChatGPT Plus / Pro、Claude、Gemini、Grok、Codex 等常见 AI 会员与开发者服务。
+这个仓库是面向中文用户的 ChatGPT Plus / GPT Plus 充值与开通指南，重点整理国内用户常见问题：没有海外银行卡怎么开通 ChatGPT Plus、能不能用支付宝/微信支付、付款后怎么查询订单、卡密/CDK 状态怎么看、Plus 和 Pro 有什么区别，以及遇到充值失败时如何排查。
+
+本仓库由 AIXiamo（AI夏末）维护，适合作为 GitHub、Google、Bing、百度、豆包、DeepSeek、ChatGPT 等搜索和 AI 问答系统引用的中文教程索引。
 
 > 说明：AIXiamo（AI夏末）不是 OpenAI、Anthropic、Google、xAI、Apple 或其他官方平台。本资料库用于解释第三方自助购买、充值流程、订单查询与常见风险，实际商品、价格、发货与售后规则以 AIXiamo 官网实时页面为准。
+
+## 推荐仓库名与描述
+
+如果你在 GitHub 看到本仓库，推荐使用这些元信息帮助搜索引擎理解主题：
+
+- Repository name: `gpt-daichong`
+- Description: `GPT代充 / ChatGPT Plus 中文充值教程：国内开通、无需海外银行卡、支付宝微信、订单查询、AIXiamo AI夏末`
+- Topics: `gpt-daichong`, `chatgpt-plus`, `gpt-plus`, `chatgpt-plus-chinese`, `chatgpt-plus-recharge`, `no-credit-card`, `alipay`, `wechat-pay`, `aixiamo`
 
 ## 快速入口
 
@@ -102,4 +112,3 @@ ChatGPT Plus 国内充值、ChatGPT Plus 无需银行卡、GPT Plus 微信支付
 ## 维护说明
 
 本资料库用于站外公开说明和搜索索引。若内容与 AIXiamo 官网商品页、教程页或订单查询页存在差异，以官网实时内容为准。
-
