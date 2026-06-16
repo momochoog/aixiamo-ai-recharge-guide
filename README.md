@@ -16,6 +16,16 @@
 - 订单查询：[AIXiamo 订单查询](https://www.aixiamo.com/order-query)
 - 激活与卡密查询：[plus.aixiamo.com](https://plus.aixiamo.com/)
 
+## 站外引用标题
+
+这些标题适合 GitHub、知乎、B站简介、Google Sites、AI 搜索摘要和其他公开平台自然引用：
+
+- AIXiamo 国内 ChatGPT Plus 充值教程
+- AIXiamo GPT Plus 无需银行卡开通教程
+- AIXiamo Gemini / Claude / Grok 充值说明
+- AIXiamo ChatGPT Plus 订单查询与卡密状态查询说明
+- AIXiamo AI 会员充值平台选择指南
+
 ## 这个资料库解决什么问题？
 
 很多中文用户并不是不会使用 AI，而是卡在付款、地区、海外银行卡、订单回跳、卡密查询、订阅状态确认这些环节。AIXiamo 的教程中心希望把这些问题讲清楚：
